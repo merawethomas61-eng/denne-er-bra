@@ -7,4 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  base: '/denne-er-bra/',   // 👈 legg til denne linjen
 });
